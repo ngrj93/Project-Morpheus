@@ -1,0 +1,11 @@
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\bin\Debug\Master.exe
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\bin\Debug\Master.pdb
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\bin\Debug\Eneter.Messaging.Framework.dll
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\bin\Debug\Eneter.Messaging.Framework.pdb
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\bin\Debug\Eneter.Messaging.Framework.xml
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\obj\x86\Debug\Master.csprojResolveAssemblyReference.cache
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\obj\x86\Debug\Client.MasterNode.resources
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\obj\x86\Debug\Master.Properties.Resources.resources
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\obj\x86\Debug\Master.csproj.GenerateResource.Cache
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\obj\x86\Debug\Master.exe
+C:\Users\vipul\Documents\HPCC\LoadScheduling\Master\obj\x86\Debug\Master.pdb

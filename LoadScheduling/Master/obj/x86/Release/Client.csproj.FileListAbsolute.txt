@@ -1,0 +1,11 @@
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\bin\Release\Client.exe
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\bin\Release\Client.pdb
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\bin\Release\Eneter.Messaging.Framework.dll
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\bin\Release\Eneter.Messaging.Framework.pdb
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\bin\Release\Eneter.Messaging.Framework.xml
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\obj\x86\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\obj\x86\Release\Client.Form1.resources
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\obj\x86\Release\Client.Properties.Resources.resources
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\obj\x86\Release\Client.exe
+C:\Users\vipul\Documents\HPCC\LoadBalancing\Client\obj\x86\Release\Client.pdb
